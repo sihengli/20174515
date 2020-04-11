@@ -1,0 +1,24 @@
+/* miniprogram/pages/certifying/certifying.wxss */
+Page{
+ background-color: white;
+}
+
+
+/* .section {
+  display: flex;
+  /* flex-direction: row; */
+  /* font-size: small;
+  z-index: 999;
+  margin-top: 2px;
+  margin-left: 30px;
+  align-items: center;
+  min-height: 100rpx;
+  justify-content: space-between;
+}  */
+/* .section__title {
+  margin-right: 10px;
+} 
+ style='font-size:medium; hight:28px;'  style='font-size:medium; hight:28px;'
+ */
+
+
